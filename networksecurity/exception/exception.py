@@ -11,4 +11,3 @@ class NetworkSecurityException(Exception):
     def __str__(self):
         return "\nError occured in: \n Filename: [{0}] \n line number: [{1}] \n error message: [{2}]".format(self.file_name,self.lineno,self.error_message)
 
-
