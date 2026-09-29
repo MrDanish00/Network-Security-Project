@@ -6,4 +6,7 @@ certifi
 setuptools
 pymongo[srv]==3.11
 scikit-learn
+ipykernel
+dill
+pyyaml
 ## -e .
