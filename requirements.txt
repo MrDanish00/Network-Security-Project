@@ -8,5 +8,6 @@ pymongo[srv]==3.11
 scikit-learn
 ipykernel
 dill
-pyyaml
+mlflow
+pyaml
 ## -e .
